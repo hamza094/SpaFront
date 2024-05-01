@@ -1,5 +1,7 @@
 <script setup lang="ts">
 import axios from "axios";
+import {LoginPayLoad} from "@/types";
+import type {FormKitNode} from "@formkit/core"
 
 definePageMeta({
   layout: "centered",
@@ -7,28 +9,25 @@ definePageMeta({
 });
 
 const {login} = useAuth();
+ 
+async function handleLogin(payload: LoginPayLoad, node?: FormKitNode){
+  try{
+    await login(payload);
+  }catch(err){
+    handleInvalidForm(err,node);
+  }
+} 
 
-const form = ref({
-  email:'',
-  password:'',
-});
 
 </script>
 <template>
   <div class="login">
     <h1>Login</h1>
-    <form @submit.prevent="login(form)">
-      <label>
-        <div>Email</div>
-        <input type="text" v-model="form.email"/>
-      </label>
 
-      <label>
-        <div>Password</div>
-        <input type="password" v-model="form.password"/>
-      </label>
-      <button class="btn">Login</button>
-    </form>
+    <FormKit type="form" submit-label="Login" @submit="handleLogin">
+    <FormKit label="Email" name="email" type="email"/>
+    <FormKit label="Password" name="password" type="password"/>
+    </FormKit>
 
     <p>
       Don't have an account?
