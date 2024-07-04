@@ -1,35 +1,29 @@
 <script setup lang="ts">
-import axios from "axios";
+import { onMounted } from 'vue';
 import { TailwindPagination } from 'laravel-vue-pagination';
+import { useRoute } from "vue-router";
 
-const data = ref(null);
 
-const queries = ref({
-  page: 1,
-  "filter[full_link]":" ",
-  ...useRoute().query
-})
+const { data, queries, page, items, getLinks,destroy } = useLinks();
+const route = useRoute();
 
-const page = ref(useRoute().query.page || 1);
+onMounted(async () => {
+  await getLinks();
+});
 
-await getLinks(); 
-
-let links = computed(()=>data.value?.data);
-
-watch(queries, async()=>{
-   getLinks();
-  useRouter().push({ query: queries.value });
-}, {deep: true});
-
-async function getLinks(){
-  const qs = new URLSearchParams(queries.value).toString();
-  const {data:res} = await axios.get(`/links?${qs}`);
-  data.value = res;
-}
+let links = computed(() => data.value?.data);
 
 definePageMeta({
   middleware:["auth"],
 });
+
+async function handleDelete(id: number){
+  await destroy(id);
+  if (data.value){
+    data.value.data = data.value.data.filter((link) => link.id !== id);
+
+  }
+}
 
 </script>
 <template>
@@ -54,12 +48,12 @@ definePageMeta({
             <th class="w-[10%]">Edit</th>
             <th class="w-[10%]">Trash</th>
             <th class="w-[6%] text-center">
-              <button><IconRefresh /></button>
+              <button @click="getLinks"><IconRefresh /></button>
             </th>
           </tr>
         </thead>
         <tbody>
-          <tr v-for="link in links">
+          <tr v-for="link in items">
             <td>
               <a :href="link.full_link" target="_blank">
                 {{ link.full_link.replace(/^http(s?):\/\//, "") }}</a
@@ -85,7 +79,7 @@ definePageMeta({
               /></NuxtLink>
             </td>
             <td>
-              <button><IconTrash /></button>
+              <button @click="handleDelete(link.id)"><IconTrash /></button>
             </td>
             <td></td>
           </tr>
