@@ -1,4 +1,3 @@
-// https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
   modules: ["@vueuse/nuxt", "@nuxtjs/tailwindcss", "@formkit/nuxt"],
   css: ["@/assets/main.css"],
@@ -9,12 +8,8 @@ export default defineNuxtConfig({
   },
   runtimeConfig: {
     public: {
-      appURL: "http://localhost:8000",
+      appURL: "http://127.0.0.1:8000",
     },
   },
-  ssr:false,
- /* routeRules: {
-    "/profiles/*": { swr: true },
-    "/*": { ssr: false },
-  },*/
+  ssr: false,
 });

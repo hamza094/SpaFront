@@ -1,11 +1,12 @@
 import axios from "axios";
 export default defineNuxtPlugin(async (nuxtApp) => {
 const config = useRuntimeConfig(); 	
-axios.defaults.baseURL = `${config.public.appURL}/api`;
+axios.defaults.baseURL = 'http://localhost:8000/api';
 axios.defaults.headers.common['X-Requested-With'] = 'XMLHttpRequest';
 axios.defaults.headers.common['Content-Type'] = 'application/json';
 axios.defaults.headers.common['Accept'] = 'application/json';
 axios.defaults.withCredentials = true;
+axios.defaults.withXSRFToken = true;
 
 axios.interceptors.response.use(
     (res) => res,
