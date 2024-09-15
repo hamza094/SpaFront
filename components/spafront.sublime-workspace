@@ -1,0 +1,1844 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"lis",
+				"listenForStatus"
+			],
+			[
+				"mee",
+				"meeting"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"get",
+				"getToken"
+			],
+			[
+				"btn",
+				"button"
+			],
+			[
+				"M",
+				"Meeting"
+			],
+			[
+				"lo",
+				"loading"
+			],
+			[
+				"mo",
+				"modalClose"
+			],
+			[
+				"R",
+				"RefreshDatabase"
+			],
+			[
+				"meet",
+				"meeting_id"
+			],
+			[
+				"tim",
+				"timezone"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"po",
+				"postBody"
+			],
+			[
+				"star",
+				"startUrl"
+			],
+			[
+				"start",
+				"startTime"
+			],
+			[
+				"b",
+				"b"
+			],
+			[
+				"meeting",
+				"MeetingModal"
+			],
+			[
+				"Z",
+				"Zoom"
+			],
+			[
+				"re",
+				"repository"
+			],
+			[
+				"res",
+				"responseData"
+			],
+			[
+				"a",
+				"activities"
+			],
+			[
+				"float",
+				"float-right"
+			],
+			[
+				"overd",
+				"overdueFilter"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"float-",
+				"float-left"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"pr",
+				"project"
+			],
+			[
+				"pro",
+				"projectsData"
+			],
+			[
+				"active",
+				"activeInvitedProjects"
+			],
+			[
+				"act",
+				"activities"
+			],
+			[
+				"A",
+				"Activity"
+			],
+			[
+				"dat",
+				"dateTime"
+			],
+			[
+				"add",
+				"addNewRole"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"subs",
+				"subscriptions"
+			],
+			[
+				"to",
+				"totalTasks"
+			],
+			[
+				"ac",
+				"activities"
+			],
+			[
+				"proj",
+				"project"
+			],
+			[
+				"update",
+				"updateStage"
+			],
+			[
+				"Task",
+				"TaskResource"
+			],
+			[
+				"Tas",
+				"TaskController"
+			],
+			[
+				"se",
+				"selectAll"
+			],
+			[
+				"C",
+				"Carbon"
+			],
+			[
+				"t",
+				"toggleStatus"
+			],
+			[
+				"sea",
+				"searchTerm"
+			],
+			[
+				"array_",
+				"array_column()"
+			],
+			[
+				"task",
+				"taskData"
+			],
+			[
+				"date",
+				"dateTime"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"sera",
+				"searchTerm"
+			],
+			[
+				"TaskRes",
+				"TaskRepository"
+			],
+			[
+				"m",
+				"memberPop"
+			],
+			[
+				"due",
+				"due_notifies"
+			],
+			[
+				"setS",
+				"statuses"
+			],
+			[
+				"S",
+				"SingleTask"
+			],
+			[
+				"tas",
+				"tasksData"
+			],
+			[
+				"fa",
+				"false"
+			],
+			[
+				"isA",
+				"isArchived"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"over",
+				"overflow-y"
+			],
+			[
+				"status",
+				"statusId"
+			],
+			[
+				"d",
+				"due_at"
+			],
+			[
+				"da",
+				"dateTime"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"texr",
+				"text-transform"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"Re",
+				"Request"
+			],
+			[
+				"TaskS",
+				"taskService"
+			],
+			[
+				"va",
+				"validatedData"
+			],
+			[
+				"ass",
+				"assertUnprocessable"
+			],
+			[
+				"ma",
+				"margin-right"
+			],
+			[
+				"p",
+				"placeholder"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"border-",
+				"border-top"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"subscr",
+				"subscription"
+			],
+			[
+				"P",
+				"Property"
+			],
+			[
+				"Ap",
+				"ApartmentFactory"
+			],
+			[
+				"Apa",
+				"Apartment"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"OA",
+				"OAuthAction"
+			],
+			[
+				"member",
+				"memberId"
+			],
+			[
+				"project",
+				"projectabout"
+			],
+			[
+				"upda",
+				"updateName"
+			],
+			[
+				"f",
+				"featurePop"
+			],
+			[
+				"use",
+				"userAvatar"
+			],
+			[
+				"conver",
+				"conversation"
+			],
+			[
+				"fil",
+				"file"
+			],
+			[
+				"temp",
+				"tempFile"
+			],
+			[
+				"ava",
+				"avatar_path"
+			],
+			[
+				"in",
+				"invitations"
+			],
+			[
+				"inv",
+				"Invitation"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"invi",
+				"Invitation"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"Pro",
+				"ProjectsResource"
+			],
+			[
+				"Proje",
+				"ProjectsResource"
+			],
+			[
+				"moda",
+				"modalClose"
+			],
+			[
+				"unse",
+				"unset()"
+			],
+			[
+				"u",
+				"user"
+			],
+			[
+				"de",
+				"delivered_at"
+			],
+			[
+				"con",
+				"const"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"s",
+				"success"
+			],
+			[
+				"me",
+				"message"
+			],
+			[
+				"data",
+				"date_formats"
+			],
+			[
+				"mem",
+				"members"
+			],
+			[
+				"load",
+				"loadInfo"
+			],
+			[
+				"fr",
+				"form"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"w",
+				"withoutExceptionHandling"
+			],
+			[
+				"User",
+				"UserMentioned"
+			],
+			[
+				"conversat",
+				"conversation"
+			],
+			[
+				"conversa",
+				"conversation"
+			],
+			[
+				"preg_match",
+				"preg_match_all()"
+			],
+			[
+				"auto",
+				"autofocus"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"email",
+				"email_verified_at"
+			],
+			[
+				"curre",
+				"current_tenant_id"
+			],
+			[
+				"ten",
+				"tenants"
+			],
+			[
+				"cha",
+				"change"
+			],
+			[
+				"avata",
+				"avatar_path"
+			],
+			[
+				"avatar",
+				"avatar_path"
+			],
+			[
+				"convers",
+				"conversations"
+			],
+			[
+				"group_",
+				"group_id"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/spafront/pages/items/index.vue",
+			"settings":
+			{
+				"buffer_size": 2479,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					8,
+					23,
+					"left_delete",
+					null,
+					"FwAAAAkCAAAAAAAACQIAAAAAAAABAAAAPggCAAAAAAAACAIAAAAAAAABAAAAcAcCAAAAAAAABwIAAAAAAAABAAAALwYCAAAAAAAABgIAAAAAAAABAAAAPAUCAAAAAAAABQIAAAAAAAABAAAAbAQCAAAAAAAABAIAAAAAAAABAAAAYQMCAAAAAAAAAwIAAAAAAAABAAAAZAICAAAAAAAAAgIAAAAAAAABAAAAbwECAAAAAAAAAQIAAAAAAAABAAAATQACAAAAAAAAAAIAAAAAAAABAAAAIP8BAAAAAAAA/wEAAAAAAAABAAAAZv4BAAAAAAAA/gEAAAAAAAABAAAAb/0BAAAAAAAA/QEAAAAAAAABAAAAIPwBAAAAAAAA/AEAAAAAAAABAAAAdPsBAAAAAAAA+wEAAAAAAAABAAAAbvoBAAAAAAAA+gEAAAAAAAABAAAAZfkBAAAAAAAA+QEAAAAAAAABAAAAdPgBAAAAAAAA+AEAAAAAAAABAAAAbvcBAAAAAAAA9wEAAAAAAAABAAAAb/YBAAAAAAAA9gEAAAAAAAABAAAAQ/UBAAAAAAAA9QEAAAAAAAABAAAAPvQBAAAAAAAA9AEAAAAAAAABAAAAcPMBAAAAAAAA8wEAAAAAAAABAAAAPA",
+					"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAKAgAAAAAAAAoCAAAAAAAAAAAAAAAA8L8"
+				]
+			]
+		},
+		{
+			"file": "/C/spafront/composables/useItems.ts",
+			"settings":
+			{
+				"buffer_size": 234,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					1,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAAAwUAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					33,
+					1,
+					"left_delete",
+					null,
+					"AQAAABsAAAAAAAAAGwAAAAAAAABBAAAAaW1wb3J0IHR5cGUge1VzZXIsIExvZ2luUGF5bG9hZCwgUmVnaXN0ZXJQYXlsb2FkfSBmcm9tICdAL3R5cGVzJwo",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAGwAAAAAAAABcAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					40,
+					4,
+					"left_delete",
+					null,
+					"BAAAAGMAAAAAAAAAYwAAAAAAAAAZBAAAYXN5bmMgZnVuY3Rpb24gZ2V0VXNlcigpOlByb21pc2U8VXNlciB8IG51bGw+ewogIGlmKHVzZXIudmFsdWUpIHJldHVybiB1c2VyLnZhbHVlOwogIHRyeXsKICBjb25zdCByZXMgPSBhd2FpdCBheGlvcy5nZXQoIi91c2VyIik7CiAgY29uc3QgdXNlciA9IHJlcy5kYXRhOwogICByZXR1cm4gewogICAgLi4udXNlciwKICAgIGNyZWF0ZWRfYXQ6IG5ldyBEYXRlKHVzZXIuY3JlYXRlZF9hdCksCiAgICB1cGRhdGVkX2F0OiBuZXcgRGF0ZSh1c2VyLnVwZGF0ZWRfYXQpLAogICAgZW1haWxfdmVyaWZpZWRfYXQ6IHVzZXIuZW1haWxfdmVyaWZpZWRfYXQKICAgICA/IG5ldyBEYXRlKHVzZXIuZW1haWxfdmVyaWZpZWRfYXQpCiAgICAgOiBudWxsLAogICAgIHR3b19mYWN0b3JfY29uZmlybWVkX2F0OiB1c2VyLnR3b19mYWN0b3JfY29uZmlybWVkX2F0CiAgICAgPyBuZXcgRGF0ZSh1c2VyLnR3b19mYWN0b3JfY29uZmlybWVkX2F0KQogICAgIDogbnVsbCwKICAgfTsKICAgfWNhdGNoIChlcnIpewogICAgcmV0dXJuIG51bGw7CiAgIH0KfQoKICBhc3luYyBmdW5jdGlvbiBpbml0VXNlcigpewogICB1c2VyLnZhbHVlID0gYXdhaXQgZ2V0VXNlcigpOwogfQoKICBhc3luYyBmdW5jdGlvbiBsb2dpbihwYXlsb2FkOiBMb2dpblBheWxvYWQpewogIGF3YWl0IGF4aW9zLnBvc3QoIi9sb2dpbiIscGF5bG9hZCk7CiAgdXNlUm91dGVyKCkucHVzaCgiL21lIik7Cn0KCiBhc3luYyBmdW5jdGlvbiBsb2dvdXQoKXsKICBhd2FpdCBheGlvcy5wb3N0KCIvbG9nb3V0Iik7CiAgdXNlci52YWx1ZSA9IG51bGw7CiAgdXNlUm91dGVyKCkucmVwbGFjZSgiL2xvZ2luIik7Cn0KCmFzeW5jIGZ1bmN0aW9uIHJlZ2lzdGVyKHBheWxvYWQ6IFJlZ2lzdGVyUGF5bG9hZCl7CmF3YWl0IGF4aW9zLnBvc3QoJy9yZWdpc3RlcicscGF5bG9hZCkKICAgICAudGhlbihyZXNwb25zZSA9PiB7CiAgICAgICAgdXNlUm91dGVyKCkucHVzaCgiL21lIik7CiAgICAgIH0pCiAgICAgIC5jYXRjaChlcnJvciA9PiB7CiAgICAgICAgY29uc29sZS5lcnJvcihlcnJvcik7CiAgICAgIH0pOyAgCn1iAAAAAAAAAGIAAAAAAAAAAQAAACBhAAAAAAAAAGEAAAAAAAAAAQAAAApgAAAAAAAAAGAAAAAAAAAAAQAAAAo",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAfAQAAAAAAABjAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					46,
+					4,
+					"left_delete",
+					null,
+					"BAAAACUAAAAAAAAAJQAAAAAAAAABAAAAciQAAAAAAAAAJAAAAAAAAAABAAAAZSMAAAAAAAAAIwAAAAAAAAABAAAAcyIAAAAAAAAAIgAAAAAAAAABAAAAdQ",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAJgAAAAAAAAAmAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					47,
+					1,
+					"insert",
+					{
+						"characters": "item"
+					},
+					"BAAAACIAAAAAAAAAIwAAAAAAAAAAAAAAIwAAAAAAAAAkAAAAAAAAAAAAAAAkAAAAAAAAACUAAAAAAAAAAAAAACUAAAAAAAAAJgAAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAIgAAAAAAAAAiAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					49,
+					4,
+					"left_delete",
+					null,
+					"BAAAADAAAAAAAAAAMAAAAAAAAAABAAAAci8AAAAAAAAALwAAAAAAAAABAAAAZS4AAAAAAAAALgAAAAAAAAABAAAAcy0AAAAAAAAALQAAAAAAAAABAAAAVQ",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAMQAAAAAAAAAxAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					50,
+					1,
+					"insert",
+					{
+						"characters": "It"
+					},
+					"AgAAAC0AAAAAAAAALgAAAAAAAAAAAAAALgAAAAAAAAAvAAAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAALQAAAAAAAAAtAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					51,
+					1,
+					"insert",
+					{
+						"characters": "em"
+					},
+					"AgAAAC8AAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAAAAxAAAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAALwAAAAAAAAAvAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					55,
+					4,
+					"left_delete",
+					null,
+					"BAAAAFUAAAAAAAAAVQAAAAAAAAABAAAAaFQAAAAAAAAAVAAAAAAAAAABAAAAdFMAAAAAAAAAUwAAAAAAAAABAAAAdVIAAAAAAAAAUgAAAAAAAAABAAAAQQ",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAVgAAAAAAAABWAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					56,
+					1,
+					"insert",
+					{
+						"characters": "It"
+					},
+					"AgAAAFIAAAAAAAAAUwAAAAAAAAAAAAAAUwAAAAAAAABUAAAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAUgAAAAAAAABSAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					57,
+					1,
+					"insert",
+					{
+						"characters": "em"
+					},
+					"AgAAAFQAAAAAAAAAVQAAAAAAAAAAAAAAVQAAAAAAAABWAAAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAVAAAAAAAAABUAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					59,
+					43,
+					"left_delete",
+					null,
+					"KwAAAJ4AAAAAAAAAngAAAAAAAAABAAAAcp0AAAAAAAAAnQAAAAAAAAABAAAAZZwAAAAAAAAAnAAAAAAAAAABAAAAc5sAAAAAAAAAmwAAAAAAAAABAAAAdZoAAAAAAAAAmgAAAAAAAAABAAAAIJgAAAAAAAAAmAAAAAAAAAACAAAAICCXAAAAAAAAAJcAAAAAAAAAAQAAAAqWAAAAAAAAAJYAAAAAAAAAAQAAACyVAAAAAAAAAJUAAAAAAAAAAQAAAHKUAAAAAAAAAJQAAAAAAAAAAQAAAGWTAAAAAAAAAJMAAAAAAAAAAQAAAHOSAAAAAAAAAJIAAAAAAAAAAQAAAFWRAAAAAAAAAJEAAAAAAAAAAQAAAHSQAAAAAAAAAJAAAAAAAAAAAQAAAGmPAAAAAAAAAI8AAAAAAAAAAQAAAG6OAAAAAAAAAI4AAAAAAAAAAQAAAGmNAAAAAAAAAI0AAAAAAAAAAQAAACCLAAAAAAAAAIsAAAAAAAAAAgAAACAgigAAAAAAAACKAAAAAAAAAAEAAAAKiQAAAAAAAACJAAAAAAAAAAEAAAAsiAAAAAAAAACIAAAAAAAAAAEAAAByhwAAAAAAAACHAAAAAAAAAAEAAABlhgAAAAAAAACGAAAAAAAAAAEAAAB0hQAAAAAAAACFAAAAAAAAAAEAAABzhAAAAAAAAACEAAAAAAAAAAEAAABpgwAAAAAAAACDAAAAAAAAAAEAAABnggAAAAAAAACCAAAAAAAAAAEAAABlgQAAAAAAAACBAAAAAAAAAAEAAABygAAAAAAAAACAAAAAAAAAAAEAAAAgfwAAAAAAAAB/AAAAAAAAAAEAAAAJfgAAAAAAAAB+AAAAAAAAAAEAAAAKfQAAAAAAAAB9AAAAAAAAAAEAAAAsfAAAAAAAAAB8AAAAAAAAAAEAAAB0ewAAAAAAAAB7AAAAAAAAAAEAAAB1egAAAAAAAAB6AAAAAAAAAAEAAABveQAAAAAAAAB5AAAAAAAAAAEAAABneAAAAAAAAAB4AAAAAAAAAAEAAABvdwAAAAAAAAB3AAAAAAAAAAEAAABsdgAAAAAAAAB2AAAAAAAAAAEAAAAgdQAAAAAAAAB1AAAAAAAAAAEAAAAJdAAAAAAAAAB0AAAAAAAAAAEAAAAKcwAAAAAAAABzAAAAAAAAAAEAAAAscgAAAAAAAAByAAAAAAAAAAEAAABu",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAnwAAAAAAAACfAAAAAAAAAAAAAAAAkHJA"
+				],
+				[
+					60,
+					4,
+					"left_delete",
+					null,
+					"BAAAAHEAAAAAAAAAcQAAAAAAAAABAAAAaXAAAAAAAAAAcAAAAAAAAAABAAAAZ28AAAAAAAAAbwAAAAAAAAABAAAAb24AAAAAAAAAbgAAAAAAAAABAAAAbA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAcgAAAAAAAAByAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					63,
+					1,
+					"insert",
+					{
+						"characters": "\n\n"
+					},
+					"BQAAAGAAAAAAAAAAYQAAAAAAAAAAAAAAYQAAAAAAAABjAAAAAAAAAAAAAABjAAAAAAAAAGQAAAAAAAAAAAAAAGQAAAAAAAAAZgAAAAAAAAAAAAAAYQAAAAAAAABhAAAAAAAAAAIAAAAgIA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAYAAAAAAAAABgAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					78,
+					2,
+					"left_delete",
+					null,
+					"AwAAABwAAAAAAAAAHAAAAAAAAAAlAAAAY29uc3QgaXRlbSA9IHJlZjxJdGVtIHwgbnVsbD4obnVsbCk7Cj0AAAAAAAAAPQAAAAAAAAACAAAAICAbAAAAAAAAABsAAAAAAAAAAQAAAAo",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAHAAAAAAAAABBAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					81,
+					1,
+					"insert",
+					{
+						"characters": "s"
+					},
+					"AQAAADAAAAAAAAAAMQAAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAMAAAAAAAAAAwAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					3,
+					1,
+					"insert",
+					{
+						"characters": "asy"
+					},
+					"AwAAAD0AAAAAAAAAPgAAAAAAAAAAAAAAPgAAAAAAAAA/AAAAAAAAAAAAAAA/AAAAAAAAAEAAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA9AAAAAAAAAD0AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					4,
+					1,
+					"insert",
+					{
+						"characters": "nc"
+					},
+					"AgAAAEAAAAAAAAAAQQAAAAAAAAAAAAAAQQAAAAAAAABCAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					5,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAEIAAAAAAAAAQwAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABCAAAAAAAAAEIAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					6,
+					1,
+					"insert",
+					{
+						"characters": "funct"
+					},
+					"BQAAAEMAAAAAAAAARAAAAAAAAAAAAAAARAAAAAAAAABFAAAAAAAAAAAAAABFAAAAAAAAAEYAAAAAAAAAAAAAAEYAAAAAAAAARwAAAAAAAAAAAAAARwAAAAAAAABIAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABDAAAAAAAAAEMAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					7,
+					1,
+					"insert",
+					{
+						"characters": "ion"
+					},
+					"AwAAAEgAAAAAAAAASQAAAAAAAAAAAAAASQAAAAAAAABKAAAAAAAAAAAAAABKAAAAAAAAAEsAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABIAAAAAAAAAEgAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					8,
+					1,
+					"insert",
+					{
+						"characters": " a"
+					},
+					"AgAAAEsAAAAAAAAATAAAAAAAAAAAAAAATAAAAAAAAABNAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABLAAAAAAAAAEsAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					9,
+					1,
+					"insert",
+					{
+						"characters": "ddI"
+					},
+					"AwAAAE0AAAAAAAAATgAAAAAAAAAAAAAATgAAAAAAAABPAAAAAAAAAAAAAABPAAAAAAAAAFAAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABNAAAAAAAAAE0AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					10,
+					1,
+					"insert",
+					{
+						"characters": "tem"
+					},
+					"AwAAAFAAAAAAAAAAUQAAAAAAAAAAAAAAUQAAAAAAAABSAAAAAAAAAAAAAABSAAAAAAAAAFMAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABQAAAAAAAAAFAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					11,
+					1,
+					"insert_snippet",
+					{
+						"contents": "($0)"
+					},
+					"AQAAAFMAAAAAAAAAVQAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABTAAAAAAAAAFMAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					13,
+					1,
+					"insert_snippet",
+					{
+						"contents": "{$0}"
+					},
+					"AQAAAFUAAAAAAAAAVwAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABVAAAAAAAAAFUAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					14,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Add Line in Braces.sublime-macro"
+					},
+					"AwAAAFYAAAAAAAAAVwAAAAAAAAAAAAAAVwAAAAAAAABYAAAAAAAAAAAAAABXAAAAAAAAAFkAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABWAAAAAAAAAFYAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					18,
+					1,
+					"insert",
+					{
+						"characters": "payl"
+					},
+					"BQAAAFQAAAAAAAAAVQAAAAAAAAAAAAAAWAAAAAAAAABYAAAAAAAAAAIAAAAgIFUAAAAAAAAAVgAAAAAAAAAAAAAAVgAAAAAAAABXAAAAAAAAAAAAAABXAAAAAAAAAFgAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABUAAAAAAAAAFQAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					19,
+					1,
+					"insert",
+					{
+						"characters": "oad"
+					},
+					"AwAAAFgAAAAAAAAAWQAAAAAAAAAAAAAAWQAAAAAAAABaAAAAAAAAAAAAAABaAAAAAAAAAFsAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABYAAAAAAAAAFgAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					22,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAAF0AAAAAAAAAXgAAAAAAAAAAAAAAXgAAAAAAAABgAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABdAAAAAAAAAF0AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					23,
+					1,
+					"paste",
+					null,
+					"AQAAAGAAAAAAAAAAqgAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABgAAAAAAAAAGAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					25,
+					1,
+					"left_delete",
+					null,
+					"AQAAAKoAAAAAAAAAqgAAAAAAAAABAAAACg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACrAAAAAAAAAKsAAAAAAAAAAAAAAABAckA"
+				],
+				[
+					44,
+					1,
+					"insert",
+					{
+						"characters": ":"
+					},
+					"AQAAAFsAAAAAAAAAXAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABbAAAAAAAAAFsAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					45,
+					1,
+					"insert",
+					{
+						"characters": " I"
+					},
+					"AgAAAFwAAAAAAAAAXQAAAAAAAAAAAAAAXQAAAAAAAABeAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABcAAAAAAAAAFwAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					46,
+					1,
+					"insert",
+					{
+						"characters": "tem"
+					},
+					"AwAAAF4AAAAAAAAAXwAAAAAAAAAAAAAAXwAAAAAAAABgAAAAAAAAAAAAAABgAAAAAAAAAGEAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABeAAAAAAAAAF4AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					47,
+					1,
+					"insert",
+					{
+						"characters": "Pa"
+					},
+					"AgAAAGEAAAAAAAAAYgAAAAAAAAAAAAAAYgAAAAAAAABjAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABhAAAAAAAAAGEAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					48,
+					1,
+					"insert",
+					{
+						"characters": "yL"
+					},
+					"AgAAAGMAAAAAAAAAZAAAAAAAAAAAAAAAZAAAAAAAAABlAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABjAAAAAAAAAGMAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					49,
+					1,
+					"insert",
+					{
+						"characters": "oad"
+					},
+					"AwAAAGUAAAAAAAAAZgAAAAAAAAAAAAAAZgAAAAAAAABnAAAAAAAAAAAAAABnAAAAAAAAAGgAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABlAAAAAAAAAGUAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					50,
+					13,
+					"left_delete",
+					null,
+					"DQAAAGcAAAAAAAAAZwAAAAAAAAABAAAAZGYAAAAAAAAAZgAAAAAAAAABAAAAYWUAAAAAAAAAZQAAAAAAAAABAAAAb2QAAAAAAAAAZAAAAAAAAAABAAAATGMAAAAAAAAAYwAAAAAAAAABAAAAeWIAAAAAAAAAYgAAAAAAAAABAAAAYWEAAAAAAAAAYQAAAAAAAAABAAAAUGAAAAAAAAAAYAAAAAAAAAABAAAAbV8AAAAAAAAAXwAAAAAAAAABAAAAZV4AAAAAAAAAXgAAAAAAAAABAAAAdF0AAAAAAAAAXQAAAAAAAAABAAAASVwAAAAAAAAAXAAAAAAAAAABAAAAIFsAAAAAAAAAWwAAAAAAAAABAAAAOg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABoAAAAAAAAAGgAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					53,
+					1,
+					"insert",
+					{
+						"characters": "add"
+					},
+					"AwAAALoAAAAAAAAAuwAAAAAAAAAAAAAAuwAAAAAAAAC8AAAAAAAAAAAAAAC8AAAAAAAAAL0AAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAC6AAAAAAAAALoAAAAAAAAAAAAAAADgfEA"
+				],
+				[
+					54,
+					1,
+					"insert_completion",
+					{
+						"completion": "addItem",
+						"format": "text",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "addItem"
+					},
+					"AgAAALoAAAAAAAAAugAAAAAAAAADAAAAYWRkugAAAAAAAADBAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAC9AAAAAAAAAL0AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					57,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAABoAAAAAAAAAGwAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAaAAAAAAAAABoAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					58,
+					1,
+					"paste",
+					null,
+					"AQAAABsAAAAAAAAAXAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAbAAAAAAAAABsAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					62,
+					27,
+					"left_delete",
+					null,
+					"GwAAAEMAAAAAAAAAQwAAAAAAAAABAAAAckIAAAAAAAAAQgAAAAAAAAABAAAAZUEAAAAAAAAAQQAAAAAAAAABAAAAdEAAAAAAAAAAQAAAAAAAAAABAAAAcz8AAAAAAAAAPwAAAAAAAAABAAAAaT4AAAAAAAAAPgAAAAAAAAABAAAAZz0AAAAAAAAAPQAAAAAAAAABAAAAZTwAAAAAAAAAPAAAAAAAAAABAAAAUjsAAAAAAAAAOwAAAAAAAAABAAAAIDoAAAAAAAAAOgAAAAAAAAABAAAALDkAAAAAAAAAOQAAAAAAAAABAAAAZDgAAAAAAAAAOAAAAAAAAAABAAAAYTcAAAAAAAAANwAAAAAAAAABAAAAbzYAAAAAAAAANgAAAAAAAAABAAAAbDUAAAAAAAAANQAAAAAAAAABAAAAeTQAAAAAAAAANAAAAAAAAAABAAAAYTMAAAAAAAAAMwAAAAAAAAABAAAAUDIAAAAAAAAAMgAAAAAAAAABAAAAbjEAAAAAAAAAMQAAAAAAAAABAAAAaTAAAAAAAAAAMAAAAAAAAAABAAAAZy8AAAAAAAAALwAAAAAAAAABAAAAby4AAAAAAAAALgAAAAAAAAABAAAATC0AAAAAAAAALQAAAAAAAAABAAAAICwAAAAAAAAALAAAAAAAAAABAAAALCsAAAAAAAAAKwAAAAAAAAABAAAAcioAAAAAAAAAKgAAAAAAAAABAAAAZSkAAAAAAAAAKQAAAAAAAAABAAAAcw",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABEAAAAAAAAAEQAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					63,
+					1,
+					"left_delete",
+					null,
+					"AQAAACgAAAAAAAAAKAAAAAAAAAABAAAAVQ",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAApAAAAAAAAACkAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					64,
+					1,
+					"insert",
+					{
+						"characters": "Item"
+					},
+					"BAAAACgAAAAAAAAAKQAAAAAAAAAAAAAAKQAAAAAAAAAqAAAAAAAAAAAAAAAqAAAAAAAAACsAAAAAAAAAAAAAACsAAAAAAAAALAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAoAAAAAAAAACgAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					68,
+					1,
+					"insert",
+					{
+						"characters": ":"
+					},
+					"AQAAAIUAAAAAAAAAhgAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACFAAAAAAAAAIUAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					74,
+					1,
+					"paste",
+					null,
+					"AQAAAIYAAAAAAAAAkQAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACGAAAAAAAAAIYAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					118,
+					1,
+					"left_delete",
+					null,
+					"AQAAAM0AAAAAAAAAzQAAAAAAAAAUAAAAICAgIGVtaXQoJ2NyZWF0ZScpOwo",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADNAAAAAAAAAOEAAAAAAAAAAAAAAAAA8L8"
+				]
+			]
+		},
+		{
+			"file": "/C/spafront/composables/useAuth.ts",
+			"settings":
+			{
+				"buffer_size": 1283,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/spafront/pages/login.vue",
+			"redo_stack":
+			[
+				[
+					51,
+					1,
+					"left_delete",
+					null,
+					"AgAAAFkBAAAAAAAAWwEAAAAAAAAAAAAAWwEAAAAAAABdAQAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABZAQAAAAAAAFkBAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					47,
+					1,
+					"left_delete",
+					null,
+					"AQAAAGwBAAAAAAAAbQEAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABsAQAAAAAAAGwBAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					46,
+					1,
+					"paste",
+					null,
+					"AQAAAFkBAAAAAAAAWQEAAAAAAAAUAAAAICAgIGVtaXQoJ2NyZWF0ZScpOwo",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABtAQAAAAAAAG0BAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					45,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAAFUBAAAAAAAAVQEAAAAAAAAEAAAAICAgIFQBAAAAAAAAVAEAAAAAAAABAAAACg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABZAQAAAAAAAFkBAAAAAAAAAAAAAAAA8L8"
+				]
+			],
+			"settings":
+			{
+				"buffer_size": 836,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/spafront/types/index.js",
+			"settings":
+			{
+				"buffer_size": 781,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					22,
+					1,
+					"insert",
+					{
+						"characters": "\n\n\n"
+					},
+					"AwAAALYCAAAAAAAAtwIAAAAAAAAAAAAAtwIAAAAAAAC4AgAAAAAAAAAAAAC4AgAAAAAAALkCAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAC2AgAAAAAAALYCAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					23,
+					1,
+					"paste",
+					null,
+					"AQAAALkCAAAAAAAA/AIAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAC5AgAAAAAAALkCAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					26,
+					5,
+					"left_delete",
+					null,
+					"BQAAAM4CAAAAAAAAzgIAAAAAAAABAAAAbs0CAAAAAAAAzQIAAAAAAAABAAAAacwCAAAAAAAAzAIAAAAAAAABAAAAZ8sCAAAAAAAAywIAAAAAAAABAAAAb8oCAAAAAAAAygIAAAAAAAABAAAATA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADPAgAAAAAAAM8CAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					27,
+					1,
+					"insert",
+					{
+						"characters": "I"
+					},
+					"AQAAAMoCAAAAAAAAywIAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADKAgAAAAAAAMoCAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					28,
+					1,
+					"insert",
+					{
+						"characters": "tem"
+					},
+					"AwAAAMsCAAAAAAAAzAIAAAAAAAAAAAAAzAIAAAAAAADNAgAAAAAAAAAAAADNAgAAAAAAAM4CAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADLAgAAAAAAAMsCAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					32,
+					5,
+					"left_delete",
+					null,
+					"BQAAAN0CAAAAAAAA3QIAAAAAAAABAAAAbNwCAAAAAAAA3AIAAAAAAAABAAAAadsCAAAAAAAA2wIAAAAAAAABAAAAYdoCAAAAAAAA2gIAAAAAAAABAAAAbdkCAAAAAAAA2QIAAAAAAAABAAAAZQ",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADeAgAAAAAAAN4CAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					33,
+					1,
+					"insert",
+					{
+						"characters": "name"
+					},
+					"BAAAANkCAAAAAAAA2gIAAAAAAAAAAAAA2gIAAAAAAADbAgAAAAAAAAAAAADbAgAAAAAAANwCAAAAAAAAAAAAANwCAAAAAAAA3QIAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADZAgAAAAAAANkCAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					37,
+					8,
+					"left_delete",
+					null,
+					"CAAAAO8CAAAAAAAA7wIAAAAAAAABAAAAZO4CAAAAAAAA7gIAAAAAAAABAAAAcu0CAAAAAAAA7QIAAAAAAAABAAAAb+wCAAAAAAAA7AIAAAAAAAABAAAAd+sCAAAAAAAA6wIAAAAAAAABAAAAc+oCAAAAAAAA6gIAAAAAAAABAAAAc+kCAAAAAAAA6QIAAAAAAAABAAAAYegCAAAAAAAA6AIAAAAAAAABAAAAcA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADwAgAAAAAAAPACAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					38,
+					1,
+					"insert",
+					{
+						"characters": "descr"
+					},
+					"BQAAAOgCAAAAAAAA6QIAAAAAAAAAAAAA6QIAAAAAAADqAgAAAAAAAAAAAADqAgAAAAAAAOsCAAAAAAAAAAAAAOsCAAAAAAAA7AIAAAAAAAAAAAAA7AIAAAAAAADtAgAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADoAgAAAAAAAOgCAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					39,
+					1,
+					"insert",
+					{
+						"characters": "iptio"
+					},
+					"BQAAAO0CAAAAAAAA7gIAAAAAAAAAAAAA7gIAAAAAAADvAgAAAAAAAAAAAADvAgAAAAAAAPACAAAAAAAAAAAAAPACAAAAAAAA8QIAAAAAAAAAAAAA8QIAAAAAAADyAgAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADtAgAAAAAAAO0CAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					40,
+					1,
+					"insert",
+					{
+						"characters": "n"
+					},
+					"AQAAAPICAAAAAAAA8wIAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADyAgAAAAAAAPICAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					42,
+					1,
+					"insert",
+					{
+						"characters": "\npr"
+					},
+					"BAAAAPsCAAAAAAAA/AIAAAAAAAAAAAAA/AIAAAAAAAD+AgAAAAAAAAAAAAD+AgAAAAAAAP8CAAAAAAAAAAAAAP8CAAAAAAAAAAMAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAD7AgAAAAAAAPsCAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					43,
+					1,
+					"insert",
+					{
+						"characters": "ice"
+					},
+					"AwAAAAADAAAAAAAAAQMAAAAAAAAAAAAAAQMAAAAAAAACAwAAAAAAAAAAAAACAwAAAAAAAAMDAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAwAAAAAAAAADAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					44,
+					1,
+					"insert",
+					{
+						"characters": ":"
+					},
+					"AQAAAAMDAAAAAAAABAMAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAADAwAAAAAAAAMDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					47,
+					1,
+					"insert",
+					{
+						"characters": ";"
+					},
+					"AQAAAAQDAAAAAAAABQMAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAEAwAAAAAAAAQDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					49,
+					1,
+					"insert",
+					{
+						"characters": "number"
+					},
+					"BgAAAAQDAAAAAAAABQMAAAAAAAAAAAAABQMAAAAAAAAGAwAAAAAAAAAAAAAGAwAAAAAAAAcDAAAAAAAAAAAAAAcDAAAAAAAACAMAAAAAAAAAAAAACAMAAAAAAAAJAwAAAAAAAAAAAAAJAwAAAAAAAAoDAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAEAwAAAAAAAAQDAAAAAAAAAAAAAAAA8L8"
+				]
+			]
+		},
+		{
+			"file": "/C/spafront/utils/index.ts",
+			"settings":
+			{
+				"buffer_size": 271,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "CreateItem.vue",
+			"settings":
+			{
+				"buffer_size": 1505,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					182,
+					1,
+					"paste",
+					null,
+					"AgAAAAAAAAAAAAAASQIAAAAAAAAAAAAASQIAAAAAAABJAgAAAAAAAC0CAAA8c2NyaXB0IHNldHVwIGxhbmc9InRzIj4KaW1wb3J0IHsgVnVlRmluYWxNb2RhbCB9IGZyb20gJ3Z1ZS1maW5hbC1tb2RhbCcKaW1wb3J0IGF4aW9zIGZyb20gJ2F4aW9zJzsKaW1wb3J0IHR5cGUgeyBGb3JtS2l0Tm9kZSB9IGZyb20gJ0Bmb3Jta2l0L2NvcmUnOwppbXBvcnQgeyB1c2VSb3V0ZXIgfSBmcm9tICd2dWUtcm91dGVyJzsKCiAgZGVmaW5lUHJvcHM8ewogICAgdGl0bGU/OiBzdHJpbmcKICB9PigpCgogIGNvbnN0IGVtaXQgPSBkZWZpbmVFbWl0czx7CiAgICAoZTogJ2NyZWF0ZScpOiB2b2lkCiAgICAoZTogJ2Nsb3NlJyk6IHZvaWQ7CiAgfT4oKQoKICBjb25zdCByb3V0ZXIgPSB1c2VSb3V0ZXIoKTsKCiBhc3luYyBmdW5jdGlvbiBjcmVhdGVJdGVtKHBheWxvYWQ6IGFueSwgbm9kZT86IEZvcm1LaXROb2RlKSB7CiAgdHJ5IHsKICAgIGF3YWl0IGF4aW9zLnBvc3QoJy9pdGVtcycsIHsKICAgICAgLi4ucGF5bG9hZCwKICAgIH0pOwogICAgZW1pdCgnY3JlYXRlJyk7CiAgfSBjYXRjaCAoZXJyKSB7CiAgICBoYW5kbGVJbnZhbGlkRm9ybShlcnIsIG5vZGUpOwogIH0KfQ",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAtAgAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					203,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAAA4CAAAAAAAADwIAAAAAAAAAAAAADwIAAAAAAAATAgAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAOAgAAAAAAAA4CAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					204,
+					1,
+					"paste",
+					null,
+					"AQAAABMCAAAAAAAAJwIAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAATAgAAAAAAABMCAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					205,
+					1,
+					"left_delete",
+					null,
+					"AQAAACYCAAAAAAAAJgIAAAAAAAABAAAACg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAnAgAAAAAAACcCAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					208,
+					2,
+					"left_delete",
+					null,
+					"AgAAABUCAAAAAAAAFQIAAAAAAAACAAAAICATAgAAAAAAABMCAAAAAAAAAgAAACAg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAXAgAAAAAAABcCAAAAAAAAAAAAAAAA8L8"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: Install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Prettier ignore next node (JsPrettier)"
+			],
+			[
+				"",
+				"Bookmarks: Select All"
+			],
+			[
+				"pre",
+				"JsPrettier: Format Code"
+			],
+			[
+				"prettify",
+				"Preferences: Settings – Syntax Specific"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 213.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": true,
+		"show_open_files": true,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/spafront",
+		"/C/spafront/components",
+		"/C/spafront/composables",
+		"/C/spafront/layouts",
+		"/C/spafront/middleware",
+		"/C/spafront/pages",
+		"/C/spafront/pages/items",
+		"/C/spafront/pages/links",
+		"/C/spafront/plugins",
+		"/C/spafront/types",
+		"/C/spafront/utils"
+	],
+	"file_history":
+	[
+		"/C/laragon/www/profresh/storage/logs/webhook.log",
+		"/C/laragon/www/profresh/routes/api/v1.php",
+		"/C/laragon/www/profresh/app/Http/Controllers/Api/Webhooks/ZoomController.php",
+		"/C/laragon/www/profresh/app/Jobs/Webhooks/Zoom/StartMeetingWebhook.php",
+		"/C/laragon/www/profresh/app/Enums/MeetingState.php",
+		"/C/laragon/www/profresh/app/Jobs/Webhooks/Zoom/MeetingEndsWebhook.php",
+		"/C/laragon/www/profresh/app/Events/MeetingStatusUpdate.php",
+		"/C/laragon/www/profresh/app/Notifications/Zoom/MeetingStarted.php",
+		"/C/laragon/www/profresh/app/Models/Project.php",
+		"/C/laragon/www/profresh/resources/js/utils/meetingUtils.js",
+		"/C/laragon/www/profresh/resources/js/components/Project/Meeting.vue",
+		"/C/laragon/www/profresh/app/Services/Zoom/Webhook/MeetingService.php",
+		"/C/laragon/www/profresh/phpunit.xml",
+		"/C/laragon/www/profresh/app/Channels/DatabaseChannel.php",
+		"/C/laragon/www/profresh/database/migrations/2024_08_21_151151_add_signature_column_to_notifications_table.php",
+		"/C/laragon/www/profresh/.env",
+		"/C/laragon/www/profresh/app/Http/Controllers/Api/ZoomMeetingController.php",
+		"/C/laragon/www/profresh/app/Providers/AppServiceProvider.php",
+		"/C/laragon/www/profresh/tests/Feature/Jobs/Webhooks/Zoom/StartMeetingWebhookTest.php",
+		"/C/laragon/www/profresh/composer.json",
+		"/C/laragon/www/profresh/app/Console/Kernel.php",
+		"/C/laragon/www/profresh/app/Providers/TelescopeServiceProvider.php",
+		"/C/laragon/www/profresh/config/app.php",
+		"/C/laragon/www/profresh/resources/js/components/Project/ViewModal.vue",
+		"/C/laragon/www/profresh/resources/js/components/Project/MeetingDetail.vue",
+		"/C/laragon/www/profresh/resources/js/components/Project/Page.vue",
+		"/C/laragon/www/profresh/resources/js/store/meeting",
+		"/C/laragon/www/profresh/app/Services/MeetingService.php",
+		"/C/laragon/www/profresh/resources/js/bootstrap.js",
+		"/C/laragon/www/profresh/routes/channels.php",
+		"/C/laragon/www/profresh/tests/Feature/Jobs/Webhooks/Zoom/EndedMeetingWebhookTest.php",
+		"/C/laragon/www/profresh/app/Http/Resources/Zoom/MeetingResource.php",
+		"/C/laragon/www/profresh/app/Events/NewMessage.php",
+		"/C/laragon/www/profresh/app/Http/Resources/Zoom/MeetingsResource.php",
+		"/C/laragon/www/profresh/app/Providers/EventServiceProvider.php",
+		"/C/laragon/www/profresh/app/Events/Meeting/StatusUpdate.php",
+		"/C/laragon/www/profresh/app/Events/Zoom/MeetingStatusUpdate.php",
+		"/C/laragon/www/profresh/app/Events/StatusUpdate.php",
+		"/C/laragon/www/profresh/resources/js/utils/zoomUtils.js",
+		"/C/laragon/www/profresh/app/Events/DeleteConversation.php",
+		"/C/laragon/www/profresh/resources/js/mixins/conversation.js",
+		"/C/laragon/www/profresh/resources/js/mixins/currentStage.js",
+		"/C/laragon/www/profresh/resources/js/mixins/alertNotice.js",
+		"/C/laragon/www/profresh/resources/js/mixins/dueDate.js",
+		"/C/laragon/www/profresh/resources/js/mixins/activitiesDesign.js",
+		"/C/laragon/www/profresh/resources/js/mixins/errorHandling.js",
+		"/C/laragon/www/profresh/resources/sass/_components.scss",
+		"/C/laragon/www/profresh/tests/Fixtures/Webhooks/Zoom/meeting_ended.json",
+		"/C/laragon/www/profresh/resources/views/mail/meeting/ended.blade.php",
+		"/C/laragon/www/profresh/app/Notifications/Zoom/MeetingEnded.php",
+		"/C/laragon/www/profresh/app/Http/Requests/Zoom/JwtTokenRequest.php",
+		"/C/laragon/www/profresh/resources/js/components/Project/Panel/Modal/TaskDescription.vue",
+		"/C/laragon/www/profresh/.env.example",
+		"/C/laragon/www/profresh/storage/logs/laravel-2024-07-30.log",
+		"/C/laragon/www/profresh/app/Http/Controllers/Api/Zoom/ZoomTokenController.php",
+		"/C/laragon/www/profresh/database/migrations/2024_07_22_162614_add_status_to_meetings_table.php",
+		"/C/laragon/www/profresh/app/Http/Middleware/VerifyZoomWebhook.php",
+		"/C/laragon/www/profresh/tests/Feature/Controllers/Zoom/GetZakTokenTest.php",
+		"/C/laragon/www/profresh/tests/Feature/Services/Zoom/ZoomService/MeetingDeleteTest.php",
+		"/C/laragon/www/profresh/app/Services/Zoom/ZoomServiceFake.php",
+		"/C/laragon/www/profresh/tests/Feature/Services/Zoom/ZoomService/GetZakTokenTest.php",
+		"/C/laragon/www/profresh/app/Models/Meeting.php",
+		"/C/laragon/www/profresh/tests/Feature/Actions/ZoomActionTest.php",
+		"/C/laragon/www/profresh/tests/Feature/Middleware/Zoom/VerifyWebhookTest.php",
+		"/C/laragon/www/profresh/tests/Feature/Jobs/Webhooks/Zoom/ProcessMeetingUpdateWebhookTest.php",
+		"/C/laragon/www/profresh/config/services.php",
+		"/C/laragon/www/profresh/app/Actions/ZoomAction.php",
+		"/C/laragon/www/profresh/app/Services/Zoom/ZoomService.php",
+		"/C/laragon/www/profresh/app/Http/Integrations/Zoom/Requests/GetZakToken.php",
+		"/C/laragon/www/profresh/resources/js/components/Project/MeetingModal.vue",
+		"/C/laragon/www/profresh/resources/js/app.js",
+		"/C/laragon/www/profresh/app/Http/Integrations/Zoom/Requests/UpdateMeeting.php",
+		"/C/laragon/www/profresh/app/Http/Integrations/Zoom/ZoomConnector.php",
+		"/C/laragon/www/profresh/app/Http/Kernel.php",
+		"/C/laragon/www/profresh/app/Jobs/Webhooks/Zoom/UpdateMeetingWebhook.php",
+		"/C/laragon/www/profresh/storage/logs/laravel-2024-07-08.log",
+		"/C/laragon/www/profresh/app/Jobs/Webhooks/Zoom/DeleteMeetingWebhook.php",
+		"/C/laragon/www/profresh/tests/Feature/Middleware/Zoom/VerifyWebhook.php",
+		"/C/laragon/www/profresh/resources/views/mail/meeting/started.blade.php",
+		"/C/laragon/www/profresh/tests/Feature/Jobs/Webhooks/Zoom/ProcessMeetingDeleteTest.php",
+		"/C/laragon/www/profresh/tests/Feature/Controllers/Webhooks/ZoomControllerTest.php",
+		"/C/laragon/www/profresh/tests/Fixtures/Webhooks/Zoom/meeting_start.json",
+		"/C/laragon/www/profresh/app/Notifications/ProjectTask.php",
+		"/C/laragon/www/profresh/tests/Fixtures/Webhooks/Zoom/meeting_delete.json",
+		"/C/laragon/www/profresh/tests/Feature/Jobs/Webhooks/Zoom/StartMeetingWebhook.php",
+		"/C/laragon/www/profresh/app/Mail/Zoom/MeetingStartedMail.php",
+		"/C/laragon/www/profresh/app/Notifications/Zoom/StartMeeting.php",
+		"/C/laragon/www/profresh/app/Mail/Zoom/MeetingStarted.php",
+		"/C/laragon/www/profresh/app/Services/ExceptionService.php",
+		"/C/laragon/www/profresh/app/Http/Integrations/Zoom/Requests/CreateMeeting.php",
+		"/C/laragon/www/profresh/config/logging.php",
+		"/C/laragon/www/profresh/database/migrations/2024_06_24_191251_add_is_programmatic_update_to_meetings_table.php",
+		"/C/laragon/www/profresh/tests/Fixtures/Webhooks/Zoom/meeting_update.json",
+		"/C/laragon/www/profresh/tests/Feature/Services/Zoom/ZoomService/MeetingTest.php",
+		"/C/laragon/www/profresh/tests/Feature/Controllers/Zoom/DeleteMeetingTest.php",
+		"/C/laragon/www/profresh/storage/logs/laravel-2024-06-24.log",
+		"/C/laragon/www/profresh/app/Exceptions/Integrations/Zoom/ZoomException.php",
+		"/C/laragon/www/profresh/app/Http/Integrations/Zoom/Requests/DeleteMeeting.php",
+		"/C/laragon/www/profresh/resources/js/components/Project/FormGroup.vue",
+		"/C/laragon/www/profresh/app/Http/Requests/Zoom/MeetingUpdateRequest.php",
+		"/C/laragon/www/profresh/database/migrations/2024_06_12_155913_update_start_url_length_in_meetings_table.php",
+		"/C/laragon/www/profresh/app/Http/Requests/Zoom/MeetingStoreRequest.php",
+		"/C/laragon/www/profresh/app/DataTransferObjects/Zoom/Meeting.php",
+		"/C/laragon/www/profresh/config/dto.php",
+		"/C/laragon/www/profresh/tests/Feature/Controllers/Zoom/StoreTest.php",
+		"/C/laragon/www/profresh/tests/Feature/Controllers/Zoom/UpdateTest.php",
+		"/C/laragon/www/profresh/tests/Feature/Services/Zoom/ZoomService/MeetingUpdateTest.php",
+		"/C/laragon/www/profresh/app/Interfaces/Zoom.php",
+		"/C/laragon/www/profresh/app/DataTransferObjects/Zoom/NewMeetingData.php",
+		"/C/laragon/www/profresh/vendor/wendelladriel/laravel-validated-dto/config/dto.php",
+		"/C/laragon/www/profresh/app/Http/Controllers/Api/MeetingController.php",
+		"/C/laragon/www/profresh/tests/TestCase.php",
+		"/C/laragon/www/profresh/database/factories/MeetingFactory.php",
+		"/C/laragon/www/profresh/database/migrations/2024_05_14_103214_create_meetings_table.php",
+		"/C/laragon/www/profresh/app/Http/Controllers/Api/ZoomController.php",
+		"/C/laragon/www/profresh/app/Rules/MeetingDateTime.php",
+		"/C/laragon/www/profresh/tests/Feature/Controllers/OAuth/ZoomController/CallbackTest.php",
+		"/C/laragon/www/profresh/tests/Traits/InteractsWithZoom.php",
+		"/C/laragon/www/profresh/app/Http/Resources/ProjectResource.php",
+		"/C/laragon/www/profresh/app/DataTransferObjects/Zoom/UpdateMeetingData.php",
+		"/C/laragon/www/profresh/app/DataTransferObjects/Zoom/UpdateMeeting.php",
+		"/C/laragon/www/profresh/app/DataTransferObjects/UpdateMeetingData.php",
+		"/C/laragon/www/profresh/resources/js/components/Project/Panel/Task.vue",
+		"/C/laragon/www/profresh/resources/js/store/index.js",
+		"/C/laragon/www/profresh/resources/js/components/Project/Panel/MeetingFormModal.vue",
+		"/C/laragon/www/profresh/database/migrations/2024_05_14_163412_modify_meeting_join_url_to_string_in_meetings_table.php",
+		"/C/laragon/www/profresh/database/migrations/2024_05_14_162421_change_meeting_strat_url_to_string_in_meetings_table.php",
+		"/C/laragon/www/profresh/database/migrations/2024_05_14_161753_change_meeting_id_to_bigint_in_meetings_table.php"
+	],
+	"find":
+	{
+		"height": 42.0
+	},
+	"find_in_files":
+	{
+		"height": 619.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			" handleInvalidForm",
+			"useAuth",
+			"create",
+			"content"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "C:\\spafront"
+		}
+	],
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/spafront/pages/items/index.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2479,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								823,
+								823
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Vuejs Complete Package/vue.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 74.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/spafront/composables/useItems.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 234,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								205,
+								205
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/TypeScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/spafront/composables/useAuth.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1283,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								27,
+								92
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/TypeScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/spafront/pages/login.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 836,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								77,
+								77
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Vuejs Complete Package/vue.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 66.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/spafront/types/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 781,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								18,
+								18
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/spafront/utils/index.ts",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 271,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								243,
+								243
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/TypeScript.sublime-syntax",
+							"tab_size": 3,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "CreateItem.vue",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1505,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								531,
+								531
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Vuejs Complete Package/vue.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 525.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 42.0
+	},
+	"input":
+	{
+		"height": 209.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 80.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\monica\\app\\Domains\\Vault\\ManageVault\\Services\\monicaeditor.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 287.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

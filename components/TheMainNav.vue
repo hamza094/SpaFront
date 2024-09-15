@@ -11,6 +11,7 @@
     <div>
       <NuxtLink to="/me">My Profile</NuxtLink>
       <NuxtLink to="/links">Links</NuxtLink>
+      <NuxtLink to="/items">Items</NuxtLink>
       <NuxtLink to="/logout">
         <IconLogout class="inline" />
       </NuxtLink>

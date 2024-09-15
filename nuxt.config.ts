@@ -1,6 +1,7 @@
 export default defineNuxtConfig({
   modules: ["@vueuse/nuxt", "@nuxtjs/tailwindcss", "@formkit/nuxt"],
-  css: ["@/assets/main.css"],
+  css: ["@/assets/main.css",'vue-final-modal/style.css'],
+  plugins: ['~/plugins/vue-final-modal.ts'],
   tailwindcss: {
     config: {
       content: ["./node_modules/laravel-vue-pagination/**/*.vue"],

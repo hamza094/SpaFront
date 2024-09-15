@@ -35,3 +35,10 @@ export interface Link extends Omit<RawLink, "created_at" | "updated_at">{
   created_at:Date;
   updated_at:Date;
 }
+
+
+export interface ItemPayload{
+  name:string;
+  description:string;
+  price:number;
+}
