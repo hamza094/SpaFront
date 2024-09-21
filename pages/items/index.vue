@@ -4,6 +4,7 @@ import { useRoute } from "vue-router";
 import axios from 'axios';
 import { ModalsContainer, useModal } from 'vue-final-modal'
 import CreateItem from '@/components/CreateItem.vue';
+import { TailwindPagination } from 'laravel-vue-pagination';
 
 definePageMeta({
     middleware:["auth"],
@@ -27,16 +28,16 @@ definePageMeta({
     },
   })
 
-  const items = ref<any[]>([]);
+  const itemData = ref({});
 
- async function getItems() {
+ const getItems = async (page = 1) => {
   try {
-    const { data } = await axios.get('/items');
-    items.value=data;
+    const response = await axios.get(`/items?page=${page}`); 
+    itemData.value = response.data;
   } catch (error) {
-    console.error('Error fetching items:', error);
+    console.error('Error fetching data:', error);
   }
-}
+};
 
 onMounted(async () => {
   await getItems();
@@ -75,7 +76,7 @@ onMounted(async () => {
           </tr>
         </thead>
         <tbody>
-           <tr v-for="(item, index) in items" :key="index">
+           <tr v-for="item in itemData.data" :key="index">
            <td>
              {{item.id}}
             </td>
@@ -102,6 +103,10 @@ onMounted(async () => {
             </td> 
           </tr>
         </tbody>
+         <TailwindPagination
+      :data="itemData"
+      @pagination-change-page="getItems"
+    />
       </table>
 
       <div class="mt-5 flex justify-center"></div>
