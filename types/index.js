@@ -42,3 +42,35 @@ export interface ItemPayload{
   description:string;
   price:number;
 }
+
+// Define the structure for an individual item
+export interface Item {
+  id: number;
+  name: string;
+  description: string;
+  price: number;
+  created_at: string;
+  updated_at: string;
+  user_id: number;
+}
+
+// Define the structure for pagination links
+export interface Link {
+  url: string | null;
+  label: string;
+  active: boolean;
+}
+
+// Define the structure for itemData
+interface ItemData {
+  data: Item[];
+  links: Link[];
+  meta: {
+    current_page: number;
+    from: number;
+    last_page: number;
+    per_page: number;
+    to: number;
+    total: number;
+  };
+}

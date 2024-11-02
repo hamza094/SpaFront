@@ -1,7 +1,7 @@
 export default defineNuxtConfig({
-  modules: ["@vueuse/nuxt", "@nuxtjs/tailwindcss", "@formkit/nuxt"],
+  modules: ["@vueuse/nuxt","@nuxtjs/tailwindcss","@formkit/nuxt","@pinia/nuxt"],
   css: ["@/assets/main.css",'vue-final-modal/style.css'],
-  plugins: ['~/plugins/vue-final-modal.ts'],
+  plugins: ['~/plugins/vue-final-modal.ts','~/plugins/myPiniaPlugin.ts'],
   tailwindcss: {
     config: {
       content: ["./node_modules/laravel-vue-pagination/**/*.vue"],
@@ -13,4 +13,7 @@ export default defineNuxtConfig({
     },
   },
   ssr: false,
+   pinia: {
+    autoImports: ['defineStore', 'storeToRefs']
+  }
 });

@@ -1,8 +1,9 @@
 <script setup lang="ts">
-import { VueFinalModal } from 'vue-final-modal'
+import { VueFinalModal } from 'vue-final-modal';
 import axios from 'axios';
 import type { FormKitNode } from '@formkit/core';
 import { useRouter } from 'vue-router';
+import { useItemsStore } from '@/store/items';
 import {ItemPayLoad} from "@/types";
 
   defineProps<{
@@ -16,11 +17,13 @@ import {ItemPayLoad} from "@/types";
 
   const router = useRouter();
 
-  const {addItem} = useItems();
+  //const {addItem} = useItems();
+
+  const itemsStore = useItemsStore();
 
  async function createItem(payload: ItemPayLoad, node?: FormKitNode) {
   try {
-    await addItem(payload);
+    await itemsStore.addItem(payload);
     emit('create');
   } catch (err) {
     handleInvalidForm(err, node);
